@@ -4,3 +4,9 @@
 *mypy*
 *.pyc
 *.txt
+*.zip
+*.gz
+*.whl
+token
+*.egg-info
+*.bak
