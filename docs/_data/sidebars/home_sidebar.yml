@@ -10,12 +10,9 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: dtype_diet
+      title: fast_jinjasql
       url: core.html
-    - output: web,pdf
-      title: Minimal Example
-      url: example.html
     output: web
-    title: dtype_diet
+    title: fast_jinjasql
   output: web
   title: Sidebar
