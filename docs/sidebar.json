@@ -1,6 +1,7 @@
 {
   "fast_jinjasql": {
     "Overview": "/",
-    "fast_jinjasql": "core.html"
+    "fast_jinjasql": "core.html",
+    "Dynamic `WHERE` Clause ": "Demo.html"
   }
 }

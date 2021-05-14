@@ -12,6 +12,9 @@ entries:
     - output: web,pdf
       title: fast_jinjasql
       url: core.html
+    - output: web,pdf
+      title: 'Dynamic `WHERE` Clause '
+      url: Demo.html
     output: web
     title: fast_jinjasql
   output: web
